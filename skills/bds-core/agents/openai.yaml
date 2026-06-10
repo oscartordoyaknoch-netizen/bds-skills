@@ -1,0 +1,3 @@
+display_name: BDS Core
+short_description: Skill madre doctrinal y arquitectonica del Business Design System.
+default_prompt: "Actua con logica BDS: interpreta el negocio como sistema vivo, clasifica por dimensiones, define artefactos utiles y estructura un workspace o caso BDS con trazabilidad."
